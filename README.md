@@ -63,15 +63,12 @@ LLM-powered assistant built with React and Node.js.
 
 ## 📫 Connect
 
-- Portfolio
-- LinkedIn
-- X (@corporatemach)
+- **Portfolio**: [newtonchirchir.netlify.app](https://newtonchirchir.netlify.app)
+- **LinkedIn**: [linkedin.com/in/newtonchirchir](https://linkedin.com/in/newtonchirchir)
+- **Email**: newtonchirchir@gmail.com
+- **X**: [@corporatemach](https://twitter.com/corporatemach)
 
 > Build. Ship. Learn. Repeat.
-
-- LinkedIn: [linkedin.com/in/newtonchirchir](https://linkedin.com/in/newtonchirchir)
-- Email: newtonchirchir@gmail.com
-- Portfolio: [newtonchirchir.netlify.app](https://newtonchirchir.netlify.app)
 
 ## 📊 GitHub Stats
 
