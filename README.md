@@ -1,30 +1,73 @@
-# Hi there, I'm Chirchir Kiprop Newton 👋
+# Hi, I'm Newton 👋
 
-## 🚀 About Me
+Software Engineer building AI-powered products and developer tools.
 
-I'm a **Full Stack Software Developer** passionate about building scalable web applications and deploying them with modern cloud infrastructure. I love turning ideas into reality through clean code and automated workflows.
+I enjoy turning ideas into production-ready software using modern web technologies and large language models.
+
+## 🚀 Currently Building
+
+- 🤖 AI SaaS applications
+- 📷 CatfishCheck
+- 💳 M-Pesa Developer Tools
+- ⚡ AI Agents
 
 ## 💻 Tech Stack
 
-**Frontend:**
-- React, JavaScript/TypeScript, HTML/CSS
+**Languages**
+- JavaScript
+- TypeScript
+- Python
+- Java
 
-**Backend:**
-- Node.js, RESTful APIs
-- MySQL
+**Frontend**
+- React
+- Next.js
+- Tailwind CSS
 
-**Cloud & DevOps:**
-- AWS (EC2, S3, Lambda, RDS, CloudFormation)
-- CI/CD Pipelines (GitHub Actions, Jenkins, AWS CodePipeline)
-- Docker, Infrastructure as Code
+**Backend**
+- Node.js
+- Express
+- PostgreSQL
 
-## 🌱 What I'm Currently Working On
+**AI**
+- OpenAI
+- Anthropic
+- Hugging Face
+- LangChain
 
-- Building cloud-native applications with AWS
-- Optimizing CI/CD pipelines for faster deployments
-- Contributing to open source projects
+**Cloud & DevOps**
+- Docker
+- GitHub Actions
+- Vercel
+- Netlify
 
-## 📫 Let's Connect
+## 🌱 Currently Learning
+
+- AI Agents
+- RAG
+- MCP
+- Kubernetes
+
+## 📌 Featured Projects
+
+### 🤖 CatfishCheck
+AI tool for detecting fake, AI-generated, and stolen profile photos.
+
+### 💳 M-Pesa Wrapper
+Simple developer-friendly M-Pesa SDK.
+
+### 🧠 AI Chat Assistant
+LLM-powered assistant built with React and Node.js.
+
+---
+
+## 📫 Connect
+
+- Portfolio
+- LinkedIn
+- X (@corporatemach)
+
+> Build. Ship. Learn. Repeat.
 
 - LinkedIn: [linkedin.com/in/newtonchirchir](https://linkedin.com/in/newtonchirchir)
 - Email: newtonchirchir@gmail.com
