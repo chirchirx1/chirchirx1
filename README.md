@@ -63,7 +63,7 @@ LLM-powered assistant built with React and Node.js.
 
 ## 📫 Connect
 
-- **Portfolio**: [newtonchirchir.netlify.app](https://newtonchirchir.netlify.app)
+- **Portfolio**: [newton-chirchir.netlify.app](https://newton-chirchir.netlify.app)
 - **LinkedIn**: [linkedin.com/in/newtonchirchir](https://linkedin.com/in/newtonchirchir)
 - **Email**: newtonchirchir@gmail.com
 - **X**: [@ElecheiA](https://twitter.com/ElecheiA)
