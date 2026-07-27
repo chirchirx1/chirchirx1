@@ -1,4 +1,4 @@
-# Hi, I'm Newton 👋
+# Hi, I'm Chad Chacha 👋
 
 Software Engineer building AI-powered products and developer tools.
 
@@ -66,7 +66,7 @@ LLM-powered assistant built with React and Node.js.
 - **Portfolio**: [newtonchirchir.netlify.app](https://newtonchirchir.netlify.app)
 - **LinkedIn**: [linkedin.com/in/newtonchirchir](https://linkedin.com/in/newtonchirchir)
 - **Email**: newtonchirchir@gmail.com
-- **X**: [@corporatemach](https://twitter.com/corporatemach)
+- **X**: [@ElecheiA](https://twitter.com/ElecheiA)
 
 > Build. Ship. Learn. Repeat.
 
