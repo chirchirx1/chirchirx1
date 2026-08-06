@@ -20,7 +20,6 @@ Tech
 
 TypeScript • Node.js • React • Python • PostgreSQL • Docker
 
-Portfolio
-LinkedIn
+Portfolio: newton-chirchir.netlify.app
 Email: newtonchirchir@gmail.com
 
