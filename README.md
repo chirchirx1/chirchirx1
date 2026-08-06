@@ -1,81 +1,26 @@
-# Hi, I'm Chad Chacha 👋
+Hi, I'm Newton Chirchir 👋
 
-Software Engineer building AI-powered products and developer tools.
+Software Engineer building AI-powered applications, backend systems, and developer tools.
 
-I enjoy turning ideas into production-ready software using modern web technologies and large language models.
+Featured Projects
 
-## 🚀 Currently Building
+CatfishCheck
+AI-powered fake profile detection platform.
 
-- 🤖 AI SaaS applications
-- 📷 CatfishCheck
-- 💳 M-Pesa Developer Tools
-- ⚡ AI Agents
+Auth Service
+Production-ready authentication API.
 
-## 💻 Tech Stack
+AI Code Reviewer
+LLM-powered code review assistant.
 
-**Languages**
-- JavaScript
-- TypeScript
-- Python
-- Java
+API Rate Limiter
+High-performance rate limiting middleware.
 
-**Frontend**
-- React
-- Next.js
-- Tailwind CSS
+Tech
 
-**Backend**
-- Node.js
-- Express
-- PostgreSQL
+TypeScript • Node.js • React • Python • PostgreSQL • Docker
 
-**AI**
-- OpenAI
-- Anthropic
-- Hugging Face
-- LangChain
+Portfolio
+LinkedIn
+Email: newtonchirchir@gmail.com
 
-**Cloud & DevOps**
-- Docker
-- GitHub Actions
-- Vercel
-- Netlify
-
-## 🌱 Currently Learning
-
-- AI Agents
-- RAG
-- MCP
-- Kubernetes
-
-## 📌 Featured Projects
-
-### 🤖 CatfishCheck
-AI tool for detecting fake, AI-generated, and stolen profile photos.
-
-### 💳 M-Pesa Wrapper
-Simple developer-friendly M-Pesa SDK.
-
-### 🧠 AI Chat Assistant
-LLM-powered assistant built with React and Node.js.
-
----
-
-## 📫 Connect
-
-- **Portfolio**: [newton-chirchir.netlify.app](https://newton-chirchir.netlify.app)
-- **LinkedIn**: [linkedin.com/in/newtonchirchir](https://linkedin.com/in/newtonchirchir)
-- **Email**: newtonchirchir@gmail.com
-- **X**: [@ElecheiA](https://twitter.com/ElecheiA)
-
-> Build. Ship. Learn. Repeat.
-
-## 📊 GitHub Stats
-
-![Chirchir's GitHub stats](https://github-readme-stats.vercel.app/api?username=chirchirx1&show_icons=true&theme=radical)
-
----
-
-⚡ **Fun fact:** I play chess ♟️
-
-💼 **Open to:** Collaborations, freelance projects, and full-time opportunities
