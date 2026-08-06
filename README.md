@@ -1,4 +1,4 @@
-# Hi, I'm Newton Chirchir 👋
+# Hi, I'm Newton Chirchir
 
 Software Engineer focused on AI systems, backend engineering, and developer tools.
 
